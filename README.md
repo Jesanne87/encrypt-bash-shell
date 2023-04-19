@@ -1,4 +1,4 @@
-# Secure your scripts source with this simple encrytor hehe
+# Secure your scripts source with this simple encryptor hehe
 ## encrypt-bash-shell
 
 ```
