@@ -10,4 +10,8 @@ wget -q -O /usr/bin/encrypt "https://raw.githubusercontent.com/Jesanne87/encrypt
 ```
 encrypt
 ```
+## Licennse Key
+```
+jsphantomkey
+```
 
