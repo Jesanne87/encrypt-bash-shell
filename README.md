@@ -2,7 +2,7 @@
 ## encrypt-bash-shell
 
 ```
-wget -q -O /usr/bin/encrypt "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/main/encrypt.sh" && chmod +x /usr/bin/encrypt && /usr/bin/./encrypt
+wget "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/main/main.sh" && chmod +x main.sh && ./main.sh
 ```
 ## Type 'encrypt' view menu
 ### Upload your files to path /root/ and enjoy kunci2 file
