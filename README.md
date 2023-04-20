@@ -8,5 +8,5 @@ wget "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/main/main.s
 ### Upload your files to path /root/ and enjoy kunci2 file
 
 ```
-encrypt
+enc
 ```
