@@ -10,3 +10,8 @@ wget "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/main/main.s
 ```
 enc
 ```
+## Lisence Key
+
+```
+jsphantomkey
+```
