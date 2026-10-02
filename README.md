@@ -10,3 +10,7 @@ wget "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/main/main.s
 ```
 enc
 ```
+### New
+```
+wget -q -O /usr/bin/shc "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/shctool.sh" && chmod +x shctool.sh
+```
