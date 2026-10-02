@@ -12,5 +12,5 @@ enc
 ```
 ### New
 ```
-wget -q -O /usr/bin/shc "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/shctool.sh" && chmod +x shctool.sh
+wget -q -O /usr/bin/shc "https://raw.githubusercontent.com/Jesanne87/encrypt-bash-shell/shctool.sh" && chmod +x /usr/bin/shc
 ```
